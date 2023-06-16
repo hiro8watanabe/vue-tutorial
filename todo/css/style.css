@@ -1,0 +1,12 @@
+li {
+  list-style: none;
+}
+
+li > span.done {
+  text-decoration: line-through;
+}
+
+label {
+  position: absolute;
+  left: -99999999px;
+}
